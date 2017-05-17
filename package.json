@@ -4,7 +4,7 @@
   "description": "npm package for basic encoding and decoding",
   "main": "index.js",
   "scripts": {
-    "test": "node test/*.js"
+    "test": "mocha test/main.js"
   },
   "repository": {
     "type": "git",
