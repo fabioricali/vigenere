@@ -1,5 +1,5 @@
 {
-  "name": "vigenereN",
+  "name": "vigeneren",
   "version": "1.0.4",
   "description": "npm package for basic encoding and decoding",
   "main": "index.js",
