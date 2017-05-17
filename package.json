@@ -1,5 +1,5 @@
 {
-  "name": "vigenere",
+  "name": "vigenereN",
   "version": "1.0.3",
   "description": "npm package for basic encoding and decoding",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wallcrawler/vigenere.git"
+    "url": "git+https://github.com/fabioricali/vigeneren.git"
   },
   "keywords": [
     "vigenere"
@@ -16,7 +16,7 @@
   "author": "wallcrawler",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/wallcrawler/vigenere/issues"
+    "url": "https://github.com/fabioricali/vigeneren/issues"
   },
-  "homepage": "https://github.com/wallcrawler/vigenere#readme"
+  "homepage": "https://github.com/fabioricali/vigeneren#readme"
 }
