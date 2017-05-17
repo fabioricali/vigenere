@@ -1,6 +1,6 @@
 {
   "name": "vigeneren",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "npm package for basic encoding and decoding",
   "main": "index.js",
   "scripts": {
